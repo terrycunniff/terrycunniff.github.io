@@ -1,6 +1,6 @@
 body{
 	background-color: lightblue;
-	margin: 0 auto;
+	margin: 50 auto;
 	max width: 50em;
 	}
 	
@@ -11,9 +11,14 @@ body{
 	}
 	
 	p {
+		padding: 20px;
+		text-align: center;
 		font-family: Verdana;
 		font-size: 20px;
 		
 	}
 	
+	img {
+	float: center;
+	}
 		 
