@@ -1,5 +1,7 @@
 body{
 	background-color: lightblue;
+	margin: 0 auto;
+	max width: 50em;
 	}
 	
 	h1 {
@@ -11,7 +13,7 @@ body{
 	p {
 		font-family: Verdana;
 		font-size: 20px;
-		padding: 50px;
+		
 	}
 	
 		 
