@@ -47,7 +47,11 @@ body{
 	nav {
 		text-align: center;
 	}		 
-+	
+
+
+iframe { 
+border: 2px red solid; 
+}
 
 
 #sketch{
@@ -56,8 +60,5 @@ body{
 	border: none;
 }
 
-.colorpurple{
-
-}
 
 
