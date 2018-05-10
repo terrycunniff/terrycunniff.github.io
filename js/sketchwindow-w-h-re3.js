@@ -10,10 +10,12 @@ function setup() {
 
   noStroke();
   fill(143, 66, 244,150);
+    }
 
-
+  //function keyPressed(){
+  	//clear();
+// }
 	
-}
 
 function draw() {
   ellipse (mouseX, mouseY, 20, 20);
